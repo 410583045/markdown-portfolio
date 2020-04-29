@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. :tree:
+2. :heart:
+* :smile:
+  * :+1:
